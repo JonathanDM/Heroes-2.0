@@ -1,0 +1,21 @@
+```
+#include <sourcemod>
+#include <sdktools>
+#include <sdkhooks>
+
+#define MOD_VERSION "1.0"
+
+public Plugin:myinfo =
+{
+	name = "Heroes 2.0",
+	author = "RadioactiveNuke and Quaaraaq",
+	description = "Remake of the original Heroes by DragonLight and Redm00n",
+	version = MOD_VERSION,
+	url = "https://github.com/JonathanDM/Heroes-2.0"
+};
+
+public OnPluginStart()
+{
+	PrintToServer("[Heroes] Heroes initialized.");
+}
+```
