@@ -1,9 +1,7 @@
 # Heroes-2.0
 This is the source content for the upcoming Heroes 2.0 Team Fortress 2 modification, based on the original by DragonLight
 
-*Name subject to change.
-
-###*To-do List*
+####*To-do List*
 * Create the queue system to select a player
 * Figure out how to do hero specials
 * Create a database for all players' queue points and/or stats
@@ -14,3 +12,5 @@ This is the source content for the upcoming Heroes 2.0 Team Fortress 2 modificat
 * Implement custom sounds and music
 * *(Optional) Alternate skins/donor heroes*
 * *(Optional) Come up with a better name*
+
+*Name subject to change.
