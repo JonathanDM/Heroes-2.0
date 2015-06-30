@@ -2,6 +2,7 @@
 This is the source content for the upcoming Heroes 2.0 Team Fortress 2 modification, based on the original by DragonLight
 
 ####*To-do List*
+* Create a basic logic overview for maping of the mod (Quaaraaq)
 * Create the queue system to select a player
 * Figure out how to do hero specials
 * Create a database for all players' queue points and/or stats
